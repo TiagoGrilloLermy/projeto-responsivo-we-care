@@ -1,6 +1,6 @@
 # Projeto We Care - Aplicação Responsiva
 
-Este é um projeto desenvolvido durante as aulas do DevClub, com base em um desafio proposto pelo professor Rodolfo Mori. A proposta foi criar uma aplicação web responsiva, ou seja, capaz de se adaptar a diferentes dispositivos, como celulares, tablets, notebooks e desktops.
+O Projeto We Care foi criado como parte das aulas do DevClub, em resposta a um desafio apresentado pelo professor Rodolfo Mori. O objetivo era desenvolver uma aplicação web responsiva, que pudesse se ajustar automaticamente a uma variedade de dispositivos, incluindo celulares, tablets, notebooks e desktops. 
 <div align=center">
 <img src="./assets/we-care.png">
 </div>
