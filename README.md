@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido durante as aulas do DevClub, com base em um desafio proposto pelo professor Rodolfo Mori. A proposta foi criar uma aplicação web responsiva, ou seja, capaz de se adaptar a diferentes dispositivos, como celulares, tablets, notebooks e desktops.
 <div align=center">
-<img src="./assets/.png">
+<img src="./assets/we-care.png">
 </div>
 
 ## Tecnologias Utilizadas
